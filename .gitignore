@@ -1,0 +1,5 @@
+venv
+game-js-client/node_modules
+__pycache__/
+db.sqlite
+.DS_Store
